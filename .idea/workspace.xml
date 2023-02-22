@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b7db3e6c-169b-481d-9d48-0228d1d99310" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/hubconf.py" beforeDir="false" afterPath="$PROJECT_DIR$/hubconf.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
